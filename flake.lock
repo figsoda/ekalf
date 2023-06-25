@@ -1,0 +1,1126 @@
+{
+  "nodes": {
+    "A": {
+      "inputs": {
+        "x": [
+          "n65"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "T": {
+      "inputs": {
+        "x": [
+          "n84"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "a": {
+      "inputs": {
+        "x": [
+          "n97"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "an": {
+      "inputs": {
+        "x": [
+          "a"
+        ],
+        "y": [
+          "n"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "ans": {
+      "inputs": {
+        "x": [
+          "an"
+        ],
+        "y": [
+          "s"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "answ": {
+      "inputs": {
+        "x": [
+          "ans"
+        ],
+        "y": [
+          "w"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "answe": {
+      "inputs": {
+        "x": [
+          "answ"
+        ],
+        "y": [
+          "e"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "answer": {
+      "inputs": {
+        "x": [
+          "answe"
+        ],
+        "y": [
+          "r"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "answerPair": {
+      "inputs": {
+        "name": [
+          "answer"
+        ],
+        "value": [
+          "n42"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-DjEWFUnznMLzv6w5uuP/GAdyPfXcAwPNSqGtSPoReLk=",
+        "path": "nameValue",
+        "type": "path"
+      },
+      "original": {
+        "path": "nameValue",
+        "type": "path"
+      }
+    },
+    "builtins": {
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-iIYMVYiUWTNEL4zRkZPuHDB8QGbDAbB+uBXlzomUg64=",
+        "path": "builtins",
+        "type": "path"
+      },
+      "original": {
+        "path": "builtins",
+        "type": "path"
+      }
+    },
+    "e": {
+      "inputs": {
+        "x": [
+          "n101"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "fListToAttrs": {
+      "inputs": {
+        "attrs": [
+          "builtins"
+        ],
+        "name": [
+          "listToAttrs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-akE7yFWT8bW5mj0r4dNe7ZRL3J0hifXV4XVxk/HwgE0=",
+        "path": "getAttr",
+        "type": "path"
+      },
+      "original": {
+        "path": "getAttr",
+        "type": "path"
+      }
+    },
+    "i": {
+      "inputs": {
+        "x": [
+          "n105"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "l": {
+      "inputs": {
+        "x": [
+          "n108"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "li": {
+      "inputs": {
+        "x": [
+          "l"
+        ],
+        "y": [
+          "i"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "lis": {
+      "inputs": {
+        "x": [
+          "li"
+        ],
+        "y": [
+          "s"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "list": {
+      "inputs": {
+        "x": [
+          "lis"
+        ],
+        "y": [
+          "t"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "listT": {
+      "inputs": {
+        "x": [
+          "list"
+        ],
+        "y": [
+          "T"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "listTo": {
+      "inputs": {
+        "x": [
+          "listT"
+        ],
+        "y": [
+          "o"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "listToA": {
+      "inputs": {
+        "x": [
+          "listTo"
+        ],
+        "y": [
+          "A"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "listToAt": {
+      "inputs": {
+        "x": [
+          "listToA"
+        ],
+        "y": [
+          "t"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "listToAtt": {
+      "inputs": {
+        "x": [
+          "listToAt"
+        ],
+        "y": [
+          "t"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "listToAttr": {
+      "inputs": {
+        "x": [
+          "listToAtt"
+        ],
+        "y": [
+          "r"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "listToAttrs": {
+      "inputs": {
+        "x": [
+          "listToAttr"
+        ],
+        "y": [
+          "s"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n": {
+      "inputs": {
+        "x": [
+          "n110"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "n0": {
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-e7xOfDEmrJDZ9Zq3HUvxqybNnvuoeUJ9kY1+u/YpwkM=",
+        "path": "zero",
+        "type": "path"
+      },
+      "original": {
+        "path": "zero",
+        "type": "path"
+      }
+    },
+    "n1": {
+      "inputs": {
+        "x": [
+          "n0"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-6oaDNEGWN8h7qYrKmPw6F4UgkiFCgN6ZVnxuO37igiA=",
+        "path": "succ",
+        "type": "path"
+      },
+      "original": {
+        "path": "succ",
+        "type": "path"
+      }
+    },
+    "n101": {
+      "inputs": {
+        "x": [
+          "n110"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-6oaDNEGWN8h7qYrKmPw6F4UgkiFCgN6ZVnxuO37igiA=",
+        "path": "succ",
+        "type": "path"
+      },
+      "original": {
+        "path": "succ",
+        "type": "path"
+      }
+    },
+    "n105": {
+      "inputs": {
+        "x": [
+          "n108"
+        ],
+        "y": [
+          "n3"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-X7QUknIE9XArKQnFpRzPZmb6kMu9p/VatQ5AakebQ84=",
+        "path": "sub",
+        "type": "path"
+      },
+      "original": {
+        "path": "sub",
+        "type": "path"
+      }
+    },
+    "n108": {
+      "inputs": {
+        "x": [
+          "n36"
+        ],
+        "y": [
+          "n3"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-+df4rv57DVUji/50dabyrpgxcpkPc2iVSgQ4GD8ofwU=",
+        "path": "mul",
+        "type": "path"
+      },
+      "original": {
+        "path": "mul",
+        "type": "path"
+      }
+    },
+    "n110": {
+      "inputs": {
+        "x": [
+          "n108"
+        ],
+        "y": [
+          "n2"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n111": {
+      "inputs": {
+        "x": [
+          "n108"
+        ],
+        "y": [
+          "n3"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n114": {
+      "inputs": {
+        "x": [
+          "n115"
+        ],
+        "y": [
+          "n1"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-X7QUknIE9XArKQnFpRzPZmb6kMu9p/VatQ5AakebQ84=",
+        "path": "sub",
+        "type": "path"
+      },
+      "original": {
+        "path": "sub",
+        "type": "path"
+      }
+    },
+    "n115": {
+      "inputs": {
+        "x": [
+          "n108"
+        ],
+        "y": [
+          "n7"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n116": {
+      "inputs": {
+        "x": [
+          "n115"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-6oaDNEGWN8h7qYrKmPw6F4UgkiFCgN6ZVnxuO37igiA=",
+        "path": "succ",
+        "type": "path"
+      },
+      "original": {
+        "path": "succ",
+        "type": "path"
+      }
+    },
+    "n119": {
+      "inputs": {
+        "x": [
+          "n110"
+        ],
+        "y": [
+          "n9"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n13": {
+      "inputs": {
+        "x": [
+          "n6"
+        ],
+        "y": [
+          "n7"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n2": {
+      "inputs": {
+        "x": [
+          "n1"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-6oaDNEGWN8h7qYrKmPw6F4UgkiFCgN6ZVnxuO37igiA=",
+        "path": "succ",
+        "type": "path"
+      },
+      "original": {
+        "path": "succ",
+        "type": "path"
+      }
+    },
+    "n3": {
+      "inputs": {
+        "x": [
+          "n2"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-6oaDNEGWN8h7qYrKmPw6F4UgkiFCgN6ZVnxuO37igiA=",
+        "path": "succ",
+        "type": "path"
+      },
+      "original": {
+        "path": "succ",
+        "type": "path"
+      }
+    },
+    "n36": {
+      "inputs": {
+        "x": [
+          "n6"
+        ],
+        "y": [
+          "n6"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-+df4rv57DVUji/50dabyrpgxcpkPc2iVSgQ4GD8ofwU=",
+        "path": "mul",
+        "type": "path"
+      },
+      "original": {
+        "path": "mul",
+        "type": "path"
+      }
+    },
+    "n42": {
+      "inputs": {
+        "x": [
+          "n36"
+        ],
+        "y": [
+          "n6"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n5": {
+      "inputs": {
+        "x": [
+          "n2"
+        ],
+        "y": [
+          "n3"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "n6": {
+      "inputs": {
+        "x": [
+          "n5"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-6oaDNEGWN8h7qYrKmPw6F4UgkiFCgN6ZVnxuO37igiA=",
+        "path": "succ",
+        "type": "path"
+      },
+      "original": {
+        "path": "succ",
+        "type": "path"
+      }
+    },
+    "n65": {
+      "inputs": {
+        "x": [
+          "n5"
+        ],
+        "y": [
+          "n13"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-+df4rv57DVUji/50dabyrpgxcpkPc2iVSgQ4GD8ofwU=",
+        "path": "mul",
+        "type": "path"
+      },
+      "original": {
+        "path": "mul",
+        "type": "path"
+      }
+    },
+    "n7": {
+      "inputs": {
+        "x": [
+          "n6"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-6oaDNEGWN8h7qYrKmPw6F4UgkiFCgN6ZVnxuO37igiA=",
+        "path": "succ",
+        "type": "path"
+      },
+      "original": {
+        "path": "succ",
+        "type": "path"
+      }
+    },
+    "n84": {
+      "inputs": {
+        "x": [
+          "n42"
+        ],
+        "y": [
+          "n2"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-+df4rv57DVUji/50dabyrpgxcpkPc2iVSgQ4GD8ofwU=",
+        "path": "mul",
+        "type": "path"
+      },
+      "original": {
+        "path": "mul",
+        "type": "path"
+      }
+    },
+    "n9": {
+      "inputs": {
+        "x": [
+          "n3"
+        ],
+        "y": [
+          "n3"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-+df4rv57DVUji/50dabyrpgxcpkPc2iVSgQ4GD8ofwU=",
+        "path": "mul",
+        "type": "path"
+      },
+      "original": {
+        "path": "mul",
+        "type": "path"
+      }
+    },
+    "n91": {
+      "inputs": {
+        "x": [
+          "n7"
+        ],
+        "y": [
+          "n13"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-+df4rv57DVUji/50dabyrpgxcpkPc2iVSgQ4GD8ofwU=",
+        "path": "mul",
+        "type": "path"
+      },
+      "original": {
+        "path": "mul",
+        "type": "path"
+      }
+    },
+    "n97": {
+      "inputs": {
+        "x": [
+          "n91"
+        ],
+        "y": [
+          "n6"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-ObrJVKb4InjTlL7hrYNylVQE+tUYyXqq5xwHw1kaTmM=",
+        "path": "add",
+        "type": "path"
+      },
+      "original": {
+        "path": "add",
+        "type": "path"
+      }
+    },
+    "nil": {
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-Et09QIUCNg7vWCuceRJ1lp80LfjxTRkdgLtD17gKQYw=",
+        "path": "nil",
+        "type": "path"
+      },
+      "original": {
+        "path": "nil",
+        "type": "path"
+      }
+    },
+    "o": {
+      "inputs": {
+        "x": [
+          "n111"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "pairs": {
+      "inputs": {
+        "x": [
+          "answerPair"
+        ],
+        "xs": [
+          "nil"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-QP3Y/xC5HrZqM+3szdDp0Gc2Y4n7+mYg1diaRqBLFl0=",
+        "path": "cons",
+        "type": "path"
+      },
+      "original": {
+        "path": "cons",
+        "type": "path"
+      }
+    },
+    "r": {
+      "inputs": {
+        "x": [
+          "n114"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "result": {
+      "inputs": {
+        "f": [
+          "fListToAttrs"
+        ],
+        "x": [
+          "pairs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-pO+MCT1SvVz6ux6cJFbZbC/6qYA2E6Dev7WMcr5XQik=",
+        "path": "apply",
+        "type": "path"
+      },
+      "original": {
+        "path": "apply",
+        "type": "path"
+      }
+    },
+    "root": {
+      "inputs": {
+        "A": "A",
+        "T": "T",
+        "a": "a",
+        "an": "an",
+        "ans": "ans",
+        "answ": "answ",
+        "answe": "answe",
+        "answer": "answer",
+        "answerPair": "answerPair",
+        "builtins": "builtins",
+        "e": "e",
+        "fListToAttrs": "fListToAttrs",
+        "i": "i",
+        "l": "l",
+        "li": "li",
+        "lis": "lis",
+        "list": "list",
+        "listT": "listT",
+        "listTo": "listTo",
+        "listToA": "listToA",
+        "listToAt": "listToAt",
+        "listToAtt": "listToAtt",
+        "listToAttr": "listToAttr",
+        "listToAttrs": "listToAttrs",
+        "n": "n",
+        "n0": "n0",
+        "n1": "n1",
+        "n101": "n101",
+        "n105": "n105",
+        "n108": "n108",
+        "n110": "n110",
+        "n111": "n111",
+        "n114": "n114",
+        "n115": "n115",
+        "n116": "n116",
+        "n119": "n119",
+        "n13": "n13",
+        "n2": "n2",
+        "n3": "n3",
+        "n36": "n36",
+        "n42": "n42",
+        "n5": "n5",
+        "n6": "n6",
+        "n65": "n65",
+        "n7": "n7",
+        "n84": "n84",
+        "n9": "n9",
+        "n91": "n91",
+        "n97": "n97",
+        "nil": "nil",
+        "o": "o",
+        "pairs": "pairs",
+        "r": "r",
+        "result": "result",
+        "s": "s",
+        "t": "t",
+        "w": "w"
+      }
+    },
+    "s": {
+      "inputs": {
+        "x": [
+          "n115"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "t": {
+      "inputs": {
+        "x": [
+          "n116"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    },
+    "w": {
+      "inputs": {
+        "x": [
+          "n119"
+        ]
+      },
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-kDzS0vmIbCJrkyrtWFe64j9mfcDmGJPkEVQQG50oLOw=",
+        "path": "ascii",
+        "type": "path"
+      },
+      "original": {
+        "path": "ascii",
+        "type": "path"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
